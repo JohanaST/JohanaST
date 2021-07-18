@@ -1,3 +1,4 @@
+![](https://media4.giphy.com/media/dash6oizfrp5Z8f3Gh/giphy.gif?cid=5e21488657c54697c8bb163622f0052b1dd26a3416694862&rid=giphy.gif&ct=g)
 ### Hiya! 
 I am Johana, graduate in Economics and Law 🥸, curious about programming but just for fun 🍭 ✨
 * I am learning Web Design in **[Freecodecamp](https://www.freecodecamp.org/)** 🌱 
