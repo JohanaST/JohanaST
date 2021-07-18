@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/HAAq9ij22lRbzErZ5b/fullscreen)
+![](https://media3.giphy.com/media/HAAq9ij22lRbzErZ5b/giphy.gif?cid=5e21488686d7ad73d2dc601572058b5648793e7ebfb9ca5e&rid=giphy.gif&ct=g)
 
 I am Johana, graduate in Economics and Law 🥸, curious about programming but just for fun 🍭 ✨
 * I am learning Web Design in **[Freecodecamp](https://www.freecodecamp.org/)** 🌱 
