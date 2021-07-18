@@ -1,5 +1,5 @@
-![](https://media4.giphy.com/media/dash6oizfrp5Z8f3Gh/giphy.gif?cid=5e21488657c54697c8bb163622f0052b1dd26a3416694862&rid=giphy.gif&ct=g)
-### Hiya! 
+![](https://giphy.com/gifs/HAAq9ij22lRbzErZ5b/fullscreen)
+
 I am Johana, graduate in Economics and Law 🥸, curious about programming but just for fun 🍭 ✨
 * I am learning Web Design in **[Freecodecamp](https://www.freecodecamp.org/)** 🌱 
 * I keep my Economics Knowledge updated as a student of the **[ACCA](https://www.accaglobal.com/gb/en.html)** 📑
